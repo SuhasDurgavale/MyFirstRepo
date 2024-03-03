@@ -15,7 +15,7 @@ public class Snapdeal {
 			  driver.get("https://www.snapdeal.com/");
 			  driver.manage().window().maximize();
 			  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-			  
+			  System.out.println("suhass");
 			  
 			  }
 }
