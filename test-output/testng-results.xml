@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-03T07:03:20 IST" name="Suite" finished-at="2024-03-03T07:03:33 IST" duration-ms="12209">
+    <groups>
+    </groups>
+    <test started-at="2024-03-03T07:03:20 IST" name="Test" finished-at="2024-03-03T07:03:33 IST" duration-ms="12209">
+      <class name="testLayer.Amazon">
+        <test-method signature="OpenAmazon()[pri:0, instance:testLayer.Amazon@1fa268de]" started-at="2024-03-03T07:03:21 IST" name="OpenAmazon" finished-at="2024-03-03T07:03:33 IST" duration-ms="12181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenAmazon -->
+      </class> <!-- testLayer.Amazon -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
