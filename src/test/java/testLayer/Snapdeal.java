@@ -17,5 +17,6 @@ public class Snapdeal {
 			  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 			  System.out.println("suhass");
 			  System.out.println(" add to index");
+			  System.out.println("practice");
 			  }
 }
